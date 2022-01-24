@@ -1,4 +1,4 @@
-#My Portfolio built sing React App and styled using Styled Components.
+# My Portfolio built using React App and styled using Styled Components.
 
 Click [Here](https://afolabi-opeyemi-portfolio.netlify.app/) to view
 
