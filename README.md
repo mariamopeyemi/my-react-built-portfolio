@@ -1,3 +1,8 @@
+#My Portfolio built sing React App and styled using Styled Components.
+
+Click [Here](https://afolabi-opeyemi-portfolio.netlify.app/) to view
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
